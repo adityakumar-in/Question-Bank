@@ -1,0 +1,29 @@
+Just press "win+Alt+R" and your computer will start the recording directly.
+You can automate chrome dinosaur game by these codes "var original = Runner.prototype.gameOver" & "Runner.prototype.gameOver = function (){}".
+Go to "haveibeenpwned.com" and search for your mail id.
+Go to "agoodmovietowatch.com", it'll suggest you from "RANDOM", "THE VERY BEST", or  "ALL MOVIES".
+The command below returns a list of information about your git configuration including username & email: "git config -l".
+With the command below you can configure your username: "git config --global email_id "UserName"".
+This command lets you setup the user email address you'll use in your commits: "git config --global user.email "your-email"".
+You can store login credentials in the cache so you don't have to type them in each time. Just use this command: "git config --global credential.helper cache".
+Everything starts from here. The first step is to initialize a new Git repo locally in your project root. You can do so with the command below: "git inti".
+The command below will add a file to the staging area. Just replace "filename_here" with the name of the file you want to add to the staging area: "git add filename_here".
+If you want to add all files in your project to the staging area, you can use a wildcard"." and every file will be added for you: "git add .".
+With the asterisk in the command below, you can add all files starting with 'fil' in the staging area: "git add fil*".
+This command will show the status of the current repository including staged, unstaged, and untracked files: "git status".
+This commandwill open a text-editor in the terminal where you can write a full commit message. A commit message is made up of a short summary of changes, an empty line, and a full description of the changes after it: "git commit".
+You can add a commit message without opening the editor. This command lets you only specify a short summary for your commit message: "git commit -m "your commit message here"".
+You can add an commit tracked files with a single command by using the -a and -m options: "git commit -a -m"your commit message here"".
+This command shows the commit's history including all files and their changes: "git log -p".
+This command shows the commit history for current repository: "git log".
+This command shows a specifiec commit. Replace commit-id with the id of the commit that you find the commit log after the word commit: "git show commit-id".
+This command will cause the Git log to show some statistics about the changes in each commit, including line(s) changed and file names: "git log --stat".
+You can pass a file as a parameter to only see changes on a specific file. 'git diff' shows only unstaged changes by default. We can call diff with the '--staged' flag to see any staged changes: "git diff", "git diff all_checks.py", "git diff --staged".
+This command opens a prompt and asks if you want to stage changes or not, and includes other options: "git add -p".
+This command expects a commit message to explain why the file was deleted: "git rm filename".
+This command stages the changes, then it expects a commit message: "git mv oldfile newfile".
+Create a ".gitignore" file and commit it.
+You can use the -p option flag to specify the changes you want to reset: "git reset HEAD filename", "git reset HEAD -p.
+.
+"git revert" will create a new commit that is the opposite of everything in the given commit. We can revert the latest commit by using the head alias like this: "git revert HEAD".
+You can revert an old commit using its commmit id. This opens the editor so you can add a commit message: "git revert comit_id_here".

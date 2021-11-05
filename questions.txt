@@ -1,0 +1,29 @@
+How to do screen recording in windows?
+How to automate chrome dinosaur game?
+How do i know, whether my gmail account is hacked or not?
+site which can suggest me any random movie or shows?
+How to check your Git configuration?
+How to setup your Git username?
+How to setup your Git user email?
+How to cache your login credentials in Git?
+How to initialize a Git repo?
+How to add a file to the staging area in Git?
+How to add all fiels in the staging area in Git?
+How to add only certain files to the staging area in Git?
+How to check a repository's status in Git?
+How to commit changes in the editor in Git?
+How to commit changes with a message in Git?
+How to commit changes (and skip the staging area) in Git?
+How to see your commit history including changes in Git?
+How to see your commit history in Git?
+How to see specific commit in Git?
+How to see log stats in Git?
+How to see changes made before committing them using "diff" in Git?
+How to see changes using "git add -p"?
+How to remove tracked files from the current working tree in Git?
+How to rename files in Git?
+How to ignore files in Git?
+How to revert unstaged changes in Git?
+How to amend the most recent commit in Git?
+How to rollback the last commit in Git?
+How to rollback an old commit in Git?
